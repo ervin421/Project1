@@ -1,0 +1,5 @@
+﻿  readln.c
+  main.c
+C:\JPAS23\source\repo\Project1\main.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Project1.vcxproj -> C:\JPAS23\source\repo\Project1\x64\Debug\Project1.exe
